@@ -45,6 +45,11 @@ table, th, td {
 }
 */
 
+.wrap {
+    width: 100%;
+    overflow: hidden;
+}
+
 .feature-icon {
   width: 4rem;
   height: 4rem;
