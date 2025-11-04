@@ -1,0 +1,12 @@
+i. Interest of Content
+    The content is interesting but it is quite sparse. Most claims are also unsources, not even a quick hyperlink which would be nice. The topics are also well varied with little overlap so they cover a wide range.
+
+ii. Consistency and quality of visual presentation
+    The website a good common theme that is carried throughout, and the colour is nice (rosh likes the green). However, the theme is a bit dissonant with the content - the website presents itself as quite silly but the content is supposed to be factual. Also all the pages present the content in different structures, which isn't bad but it makes the website look less cohesive.
+    The healthcare also doesn't have a header at all, just hyperlinks at the top of the page, and the two other pages' headers have inconsistent themes.
+
+iii. Quality of written presentation
+    The written content is quite sparse
+
+iv. Validity of HTML
+    
