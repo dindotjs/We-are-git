@@ -11,3 +11,7 @@ iii. Quality of written presentation
 
 iv. Validity of HTML
     Rosh & Brian could not find any mistakes in the HTML. It's well structured and presented. The only gripe we have is to why the index.html has it's own styles in the header when you guys have a global styles.css file, and so far as we can tell, they don't conflict at all.
+
+v. Evidence of collaboration
+    Looking at the git blame, we can tell that the pages were collaborated on. Different people made the content, CSS files, added bootstrap, helped structure pages, and the authorship was (on the most part) added by different people - the only exception was the home page.
+
