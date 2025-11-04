@@ -1,5 +1,17 @@
 html,body{
     font-family:"Comic Sans MS", "Comic Sans";
+    background-color:#CBF3BB;
+}
+
+.card {
+    background-color:#ABE7B2;
+}
+.btn {
+    background-color: #93BFC7;
+    border:#93BFC7;
+}
+.btn:hover {
+    background-color: #6ba8b2;
 }
 /*
 body {
