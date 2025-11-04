@@ -4,6 +4,7 @@ i. Interest of Content
 ii. Consistency and quality of visual presentation
     The website a good common theme that is carried throughout, and the colour is nice (rosh likes the green). However, the theme is a bit dissonant with the content - the website presents itself as quite silly but the content is supposed to be factual. Also all the pages present the content in different structures, which isn't bad but it makes the website look less cohesive.
     The healthcare also doesn't have a header at all, just hyperlinks at the top of the page, and the two other pages' headers have inconsistent themes.
+    The spacing between the dropdown boxes on the healthcare page is also a little odd as there is no gap between the dropdown box and the next button - also does this content need to be in a dropdown box? It is the main content of the page.
 
 iii. Quality of written presentation
     The written content is quite sparse
