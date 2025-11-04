@@ -9,4 +9,4 @@ iii. Quality of written presentation
     The written content is quite sparse
 
 iv. Validity of HTML
-    
+    Rosh & Brian could not find any mistakes in the HTML. It's well structured and presented. The only gripe we have is to why the index.html has it's own styles in the header when you guys have a global styles.css file, and so far as we can tell, they don't conflict at all.
