@@ -13,50 +13,8 @@ html,body{
 }
 .btn:hover {
     background-color: #ABE7B2;
+    transform: translateY(1px);
 }
-/*
-body {
-  scroll-behavior: smooth;
-}
-
-h1{
-    font-size: 3rem;
-}
-h2{
-    font-size: 2.5rem;
-}
-ul,ol,dl,p{
-    font-size: 1.5rem;
-}
-li,p{
-    line-height: 1.5;
-}
-ul{
-    padding-left: 2rem;
-    list-style-type: none;
-}
-li{
-    padding-left: 2rem;
-}
-ol{
-    list-style-type: numeric;
-}
-dd, dt{
-    line-height: 1.2;
-}
-dt{
-    font-weight: bold;
-}
-body{
-    background-color: grey;
-}
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 10px;
-    text-align: left;
-}
-*/
 
 .wrap {
     width: 100%;
@@ -83,6 +41,7 @@ table, th, td {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  border-radius: 1lem;
 }
 
 .feature-icon-small {
@@ -94,4 +53,9 @@ table, th, td {
     border: 2px solid black;
     padding: 1em;
     margin-bottom: 3em;
+    border-radius: 1lem;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+* {
+  transition: all 0.2s ease-in-out;
 }
