@@ -1,17 +1,17 @@
 html,body{
     font-family:"Comic Sans MS", "Comic Sans";
-    background-color:#CBF3BB;
+    background-color:#ECF4E8;
 }
 
 .card {
-    background-color:#ABE7B2;
+    background-color:#CBF3BB;
 }
 .btn {
-    background-color: #93BFC7;
-    border:#93BFC7;
+    background-color: #98d49f;
+    border:#98d49f;
 }
 .btn:hover {
-    background-color: #6ba8b2;
+    background-color: #ABE7B2;
 }
 /*
 body {
@@ -87,15 +87,4 @@ table, th, td {
 .feature-icon-small {
   width: 3rem;
   height: 3rem;
-<<<<<<< Updated upstream
 }
-=======
-}
-
-.container-style{
-    border-radius: 1em;
-    border: 2px solid black;
-    padding: 1em;
-    margin-bottom: 3em;
-}
->>>>>>> Stashed changes
